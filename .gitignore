@@ -3,6 +3,7 @@ __pycache__/
 
 .DS_Store
 
+*.csv
 *.pyc
 *.swp
 *.old
