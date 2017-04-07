@@ -5,5 +5,8 @@
 #    pip-compile --output-file requirements.txt requirements.in
 #
 click==6.6
+progressbar2==3.17.1
 PyGithub==1.34
 pyjwt==1.4.2              # via pygithub
+python-utils==2.1.0       # via progressbar2
+six==1.10.0               # via python-utils
